@@ -1,4 +1,3 @@
-# Random Number Generator Code : Javascript V8 Engine
 # Algorithum : XORShift128+ 
 
 import z3
